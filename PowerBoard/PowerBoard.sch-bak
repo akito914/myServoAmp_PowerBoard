@@ -39,12 +39,12 @@ $Comp
 L Device:D_Bridge_+AA- D1
 U 1 1 5E970ADC
 P 4750 3000
-F 0 "D1" V 4600 2750 50  0000 R CNN
-F 1 "GBU1010TB" V 4500 2900 50  0000 R CNN
+F 0 "D1" V 4500 3350 50  0000 R CNN
+F 1 "GBU1010TB" V 4400 3500 50  0000 R CNN
 F 2 "Diode_THT:Diode_Bridge_Vishay_GBU" H 4750 3000 50  0001 C CNN
 F 3 "~" H 4750 3000 50  0001 C CNN
 	1    4750 3000
-	0    1    -1   0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:Fuse F1
